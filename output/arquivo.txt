@@ -1,0 +1,12 @@
+produto: licha
+quantidade: 200
+============
+produto: fita 
+quantidade: 20
+============
+produto: regua
+quantidade: 3
+============
+produto: mesa 
+quantidade: 1
+============
