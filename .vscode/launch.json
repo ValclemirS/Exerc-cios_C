@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/Unicesumar",
-      "program": "d:/Unicesumar/build/Debug/outDebug",
+      "cwd": "d:/Unicesumar/atividadeAvaliativa",
+      "program": "d:/Unicesumar/atividadeAvaliativa/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
